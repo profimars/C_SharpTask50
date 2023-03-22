@@ -7,6 +7,7 @@
 // 8 4 2 4
 // 17 -> такого числа в массиве нет
 //https://github.com/profimars/C_SharpTask50
+
 void CreateArray(int[,] A)
 {
     int m = A.GetLength(0);
